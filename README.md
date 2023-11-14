@@ -4,11 +4,11 @@
 AtliQ, a hardware retail company, offers a range of products such as PCs, mouse, printers, etc. Its customers like Croma, Amazon, Best Buy Flipkart, etc. Tasked by AtliQ's Business users, the objective is to harness data from files containing over 1.5 million records to prepare sales and financial reports.
  
 # 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
-1- Customers Net Sales Performance
-2– Market Performance Vs Target
-3- Top 5 countries in terms of net sales performance in 2021
-4- Top 5 and Bottom 5 Products in terms of quantity sold
-5 – P&L statement on a fiscal year, quarterly and monthly basis
+1. Customers Net Sales Performance
+2. Market Performance Vs Target
+3. Top 5 countries in terms of net sales performance in 2021
+4. Top 5 and Bottom 5 Products in terms of quantity sold
+5. P&L statement on a fiscal year, quarterly and monthly basis
  
 # 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
 
@@ -42,6 +42,6 @@ Applied Conditional Formatting to enhance data presentation by applying rules, a
 
 
 # Finance Knowledge
-A Profit and Loss (P&L) statement is a financial report that provides an overview of a company’s financial performance over a period of time, typically a month, quarter, or year.
-P&L statement include several metrics such as Net sales, cost of goods sold (COGS), Gross Margin and GM % etc, these metrics evaluate a company’s financial performance, profitability, and pricing tactics.
+- A Profit and Loss (P&L) statement is a financial report that provides an overview of a company’s financial performance over a period of time, typically a month, quarter, or year.
+- The Profit and loss (P&L) statement includes several metrics such as Net sales, cost of goods sold (COGS), Gross Margin and GM % etc, these metrics evaluate a company’s financial performance, profitability, and pricing tactics.
 
