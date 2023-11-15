@@ -1,8 +1,9 @@
 # Excel_Project--Sales_and_Finance_Report
  
 # 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: -
-AtliQ, a hardware retail company, offers a range of products such as PCs, mouse, printers, etc. Its customers like Croma, Amazon, Best Buy Flipkart, etc. Tasked by AtliQ's Business users, the objective is to harness data from files containing over 1.5 million records to prepare sales and financial reports.
- 
+AtliQ is a company that sells hardware like Pc, Mouse, Printers, etc. to different customers. They have 2 types of customers one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. 
+The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
+
 # 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
 1. Customers Net Sales Performance
 2. Market Performance Vs Target
@@ -31,12 +32,12 @@ Create 10 + new Measures such as Net sales for each year, Gross Margin, GM %, an
 Applied Conditional Formatting to enhance data presentation by applying rules, and formatting numbers and text. This approach highlights important data, identifies trends, and improves overall data readability for more effective analysis.
  
 # 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
-1. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million.
-2. The AQ Master Wired X1 MS proved to be the best-selling product, moving 4.2 million units.
+1. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million, while Sweden recorded the lowest sales at $1.8 million.
+2. The AQ Master Wired X1 MS proved to be the best-selling product, moving 4.2 million units, whereas the AQ Home Allin1 Gen2 had the lowest sales, with only 8.8 thousand units sold.
 3. During the festive months of October to December, a notable surge in sales and profits was observed in India.
 4. The top 3 customers contributing to the highest net sales were Amazon, AtliQ Exclusive, and AtliQ e-store.
-5. The introduction of 16 new products in 2021 showcased AQ's innovation, with the AQ Qwerty leading sales at 22 million units. 
-6. Special thanks to mentors Dhaval Patel and Hemanand Vadivel from Codebasics for their invaluable guidance throughout the course and assistance in creating the project report. 
+5. The introduction of 16 new products in 2021 showcased AQ's innovation, with the AQ Qwerty leading sales at 22 million units.
+
 
 
 
