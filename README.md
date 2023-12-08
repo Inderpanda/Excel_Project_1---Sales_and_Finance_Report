@@ -1,17 +1,22 @@
-# Excel_Project--Sales_and_Finance_Report
+# 📊 𝐒𝐚𝐥𝐞𝐬 𝐚𝐧𝐝 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 -- Excel Project
+
  
-# 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: -
-AtliQ is a company that sells hardware like Pc, Mouse, Printers, etc. to different customers. They have 2 types of customers one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. 
+# 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞: -
+AtliQ is a company that sells hardware like PCs, Mouse, Printers, etc. to different customers. They have 2 types of customers one is Physical stores that are known as Brick & Mortar like Croma and Best Buy and the second is E-commerce like Amazon and Flipkart. 
 The AtliQ Business users have been given files to build reports the data contains more than 1.5 million records, and have to build sales and financial reports of the company.
 
-# 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
+
+
+# 📈 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
 1. Customers Net Sales Performance
 2. Market Performance Vs Target
 3. Top 5 countries in terms of net sales performance in 2021
 4. Top 5 and Bottom 5 Products in terms of quantity sold
 5. P&L statement on a fiscal year, quarterly and monthly basis
+
+
  
-# 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
+# ➡️ 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
 
 1. 𝐄𝐓𝐋 (𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐋𝐨𝐚𝐝)
 Load all the CSV files that were provided, to Power Query. Ensured there were no missing values, all dimension tables contained a unique column, removed duplicate values, corrected the spelling errors, and in the end loaded the files in the Power Pivot.
@@ -30,8 +35,11 @@ Create 10 + new Measures such as Net sales for each year, Gross Margin, GM %, an
  
 5. 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐅𝐨𝐫𝐦𝐚𝐭𝐭𝐢𝐧𝐠
 Applied Conditional Formatting to enhance data presentation by applying rules, and formatting numbers and text. This approach highlights important data, identifies trends, and improves overall data readability for more effective analysis.
+
+
+
  
-# 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
+# 💡 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬:-
 1. In 2021, India emerged as the top-performing market with the highest net sales of $161.3 million, while Sweden recorded the lowest sales at $1.8 million.
 2. The AQ Master Wired X1 MS proved to be the best-selling product, moving 4.2 million units, whereas the AQ Home Allin1 Gen2 had the lowest sales, with only 8.8 thousand units sold.
 3. During the festive months of October to December, a notable surge in sales and profits was observed in India.
@@ -40,9 +48,10 @@ Applied Conditional Formatting to enhance data presentation by applying rules, a
 
 
 
-
-
 # Finance Knowledge
 - A Profit and Loss (P&L) statement is a financial report that provides an overview of a company’s financial performance over a period of time, typically a month, quarter, or year.
 - The Profit and loss (P&L) statement includes several metrics such as Net sales, cost of goods sold (COGS), Gross Margin and GM % etc, these metrics evaluate a company’s financial performance, profitability, and pricing tactics.
 
+----------------
+
+ 
