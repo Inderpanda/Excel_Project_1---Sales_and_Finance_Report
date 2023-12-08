@@ -15,6 +15,7 @@ The AtliQ Business users have been given files to build reports the data contain
 5. P&L statement on a fiscal year, quarterly and monthly basis
 
 
+
  
 # ➡️ 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
 
@@ -52,6 +53,11 @@ Applied Conditional Formatting to enhance data presentation by applying rules, a
 - A Profit and Loss (P&L) statement is a financial report that provides an overview of a company’s financial performance over a period of time, typically a month, quarter, or year.
 - The Profit and loss (P&L) statement includes several metrics such as Net sales, cost of goods sold (COGS), Gross Margin and GM % etc, these metrics evaluate a company’s financial performance, profitability, and pricing tactics.
 
-----------------
+-----------------------------
+
+![7](https://github.com/Inderpanda/Excel_Project_1---Sales_and_Finance_Report/assets/138003751/40daa48e-10a3-4cf2-922b-aff6f06fe9ad)
+
+
+
 
  
