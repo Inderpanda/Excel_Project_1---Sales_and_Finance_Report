@@ -55,7 +55,8 @@ Applied Conditional Formatting to enhance data presentation by applying rules, a
 
 -----------------------------
 
-![7](https://github.com/Inderpanda/Excel_Project_1---Sales_and_Finance_Report/assets/138003751/40daa48e-10a3-4cf2-922b-aff6f06fe9ad)
+![Screenshot (3624)](https://github.com/Inderpanda/Excel_Project_1---Sales_and_Finance_Report/assets/138003751/489f15cc-5b4b-4d9e-9e4b-796662cae390)
+
 
 
 
