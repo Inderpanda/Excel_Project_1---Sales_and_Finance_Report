@@ -8,13 +8,21 @@ The AtliQ Business users have been given files to build reports the data contain
 
 
 # 📈 𝐓𝐡𝐞 𝐑𝐞𝐩𝐨𝐫𝐭 𝐜𝐨𝐧𝐬𝐢𝐬𝐭𝐬 𝐨𝐟: -
-1. Customers Net Sales Performance
-2. Market Performance Vs Target
-3. Top 5 countries in terms of net sales performance in 2021
-4. Top 5 and Bottom 5 Products in terms of quantity sold
-5. P&L statement on a fiscal year, quarterly and monthly basis
 
+# Sales Report
+1. Customer Performance Report 
+2. Market  Performance Report 
+3. Top 10 Products 
+4. Division Level
+5. Top & Bottom 5 Products  
+6. New Product - 2021   
+7. Top 5 countries    
 
+# Finance Report
+1. P&L yearly  
+2. P&L Monthly   
+3. P&L Market 
+4. GM% Quartely
 
  
 # ➡️ 𝐒𝐭𝐞𝐩𝐬 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐦𝐚𝐤𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐑𝐞𝐩𝐨𝐫𝐭: -
